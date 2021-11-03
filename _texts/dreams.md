@@ -1,8 +1,8 @@
 ---
 layout: poem
-title: Dreams
+title: Dreams a la Sophie
 author: Langston Hughes
-editor: Alex Gil
+editor: Sophie
 source: Project Guttenberg
 ---
 
