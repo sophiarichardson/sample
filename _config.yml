@@ -1,7 +1,7 @@
 # Built with Jekyll 3.6.0
 
 # Setup
-title:               hello
+title:               'hello'
 tagline:             'sophie is practicing'
 description:         'this is a random paragraph of text'
 url:                 'http://minicomp.github.io'
