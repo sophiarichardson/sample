@@ -3,18 +3,18 @@
 # Setup
 title:               'hello'
 tagline:             'sophie is practicing'
-description:         'this is a random paragraph of text'
+description:         'learning to make digital editions!'
 url:                 'http://minicomp.github.io'
 baseurl:             '/sample'
 
 # About/contact
 author:
-  name:              Alex Gil
+  name:              Sophia Richardson 
   url:               https://twitter.com/elotroalex
   email:             colibri.alex@gmail.com
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
-color-scheme:
+color-scheme: 
 
 # Permalinks
 permalink: pretty
