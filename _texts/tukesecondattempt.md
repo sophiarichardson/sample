@@ -31,7 +31,7 @@ I am attempting to make this work.
 
 <p class="centered large">are set forth and discovered</p>
 
-[!titlepage](![image](https://user-images.githubusercontent.com/93678367/141185080-97bd1883-567a-4f1b-a6d4-b1a356a1ffcf.png)
+(![image](https://user-images.githubusercontent.com/93678367/141185080-97bd1883-567a-4f1b-a6d4-b1a356a1ffcf.png)
 
 <p class="centered">Whereunto is added the Picture of a Picture, or, The Character of a Painted Woman.</p>
 
