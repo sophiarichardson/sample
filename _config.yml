@@ -1,7 +1,7 @@
 # Built with Jekyll 3.6.0
 
 # Setup
-title:               'hello'
+title:               'hello world'
 tagline:             'sophie is practicing'
 description:         'learning to make digital editions!'
 url:                 'http://minicomp.github.io'
@@ -14,7 +14,7 @@ author:
   email:             colibri.alex@gmail.com
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
-color-scheme: 
+color-scheme: magenta
 
 # Permalinks
 permalink: pretty
