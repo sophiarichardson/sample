@@ -8,7 +8,7 @@ source: Project Guttenberg
 
 - Hold fast to dreams[^fn1]
 - For if dreams die
-- Life is a broken-winged bird
+- Life is a broken-winged bird[^bird]
 - That cannot fly.
 - Hold fast to dreams
 - For when dreams go
@@ -16,3 +16,4 @@ source: Project Guttenberg
 - Frozen with snow.
 
 [^fn1]: trying to make a footnote
+[^bird]: more footnotes
