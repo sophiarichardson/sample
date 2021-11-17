@@ -31,7 +31,7 @@ I am attempting to make this work.
 
 <p class="centered large">are set forth and discovered</p>
 
-![here is a tite page](/images/tukebeinecketitlepage.jpg)
+![here is a tite page]({{site.baseurl}}/images/tukebeinecketitlepage.jpg)
 
 <p class="centered">Whereunto is added the Picture of a Picture, or, The Character of a Painted Woman.</p>
 
