@@ -31,9 +31,7 @@ I am attempting to make this work.
 
 <p class="centered large">are set forth and discovered</p>
 
-![tuke beinecke title page](https://user-images.githubusercontent.com/93678367/142236225-97b4a308-0828-47b4-92b6-29727cfc581c.jpg)
-
-![tuke title page](https://user-images.githubusercontent.com/93678367/142277175-c785004c-1e0e-4b97-8cbb-ec3cff7a3ead.JPG)
+![here is a tite page](/images/tukebeinecketitlepage.jpg)
 
 <p class="centered">Whereunto is added the Picture of a Picture, or, The Character of a Painted Woman.</p>
 
